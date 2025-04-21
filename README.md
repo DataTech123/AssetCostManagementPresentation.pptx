@@ -2,9 +2,11 @@
                                                      
 This capitalized asset cost defines a long-term period of work in progress (WIP)or construction-in-progress (CIP)projects. It refers to the acquisition of an asset extending beyond one year, including not only the purchase or repair material cost but also additional expenses such as administrative labor, depreciation, and amortization. It has a useful life, presenting the full cost of a capital asset recorded in the 2022 and 2023 Seattle City Light Department’s financial statements within the operating expenses in an attached Word document. According to its construction accounting, it implements fixed assets: long-term assets that are tangible, such as sidewalk maintenance, machinery, and vehicles.
 This asset cost accounting system information document outlines the relevant capital cost allocation activities for tracking all asset costs through Oracle’s Asset Service and Management module (WAMS) and the PeopleSoft accounting transaction system.
+
 Using PowerPoint design 10-slide visual and diagram for asset processor’s guide:
 
 Asset type and cost category:
+
 • Define asset type to create asset number or account.
 • Identify cost category for cost calculation. (partial or full).
 
